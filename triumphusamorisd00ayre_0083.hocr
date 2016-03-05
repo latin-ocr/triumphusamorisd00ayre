@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./triumphusamorisd00ayre_0083.png"; bbox 0 0 1773 3178; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 76 42 1442 186">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 76 42 1442 186">
+     <span class='ocr_line' id='line_1_1' title="bbox 76 42 1442 186; baseline -0.031 -2.328"><span class='ocrx_word' id='word_1_1' title='bbox 76 75 221 186; x_wconf 55' lang='lat'><em>‚15&#39;</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 241 66 804 179; x_wconf 57' lang='lat' dir='ltr'><em>gffnbsctned</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 856 42 930 159; x_wconf 61' lang='lat' dir='ltr'><em>d</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 957 55 1442 162; x_wconf 60' lang='lat' dir='ltr'><em>strneuff</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 22 184 1601 2466">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 22 184 1601 2466">
+     <span class='ocr_line' id='line_1_2' title="bbox 22 184 1601 2466; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 22 184 1601 2466; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
